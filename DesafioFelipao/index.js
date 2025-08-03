@@ -8,7 +8,7 @@ let Herois_Xp = [
     {nome: "Batman" , Xp: 6200} , 
     {nome: "Mulher Maravilha" , Xp: 7011} ,
     {nome: "Superman" , Xp: 9000} ,
-    {nome: "Capitão América" , Xp: 1110} ,
+    {nome: "Capitão América" , Xp: 10110} ,
     {nome: "Thor" , Xp: 9200}
 ];
 
